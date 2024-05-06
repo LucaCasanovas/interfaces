@@ -1,0 +1,6 @@
+Raza: Vampiro
+
+Clase: Hechicero Oscuro
+
+Habilidad Única: Maldición de Sangre
+El Hechicero Oscuro lanza una maldición de sangre sobre un enemigo, debilitándolo y drenando su vida gradualmente durante un período prolongado de tiempo.

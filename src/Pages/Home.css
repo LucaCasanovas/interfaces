@@ -1,0 +1,67 @@
+html, body{
+    height: 100%;
+    padding: 0;
+    margin: 0;
+    background-image: url('../Images/backgrounds/fondo5.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.personajes{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    gap: 5%;
+    text-align: center;
+    margin: 5%;
+}
+
+.personajes div{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 15em;
+    margin: 5%;
+}
+
+.personajes img{
+    width: 100%; /* Hacer que las imágenes ocupen todo el ancho del contenedor */
+    height: auto; /* Altura automática para mantener la proporción */
+    max-width: 200px; /* Establecer un ancho máximo para las imágenes */
+}
+
+.personajes h2{
+    font-size: 1em;
+    max-width: 10em;
+    margin: 0;
+    color: #BF7D2C;
+}
+
+.titulo{
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+}
+
+.titulo h2{
+    margin: 0%;
+    color: #BF7D2C;
+}
+
+
+@media (max-width: 600px) {
+
+    .personajes{
+        font-size: 0.7em;
+    }
+
+    .personajes img {
+        max-width: 135px; /* Reducir el tamaño máximo de las imágenes en pantallas pequeñas */
+    }
+
+    .personajes div{
+        height: 14em;
+    }
+}

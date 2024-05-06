@@ -1,0 +1,101 @@
+
+.card{
+    height: 600px;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 11px;
+    margin: 0;
+    gap: 0;
+    color: #BF7D2C;
+}
+
+.perfil{
+    background-image: url('../Images/backgrounds/perfil.png');
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    align-items: center;
+    height: 175px;
+    width: 200px;
+    text-align: center;
+    position: relative;
+    bottom: -8px;
+}
+
+.perfil img{
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    bottom: 10px;
+}
+
+.estadisticas{
+    height: 65%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 5%;
+    align-items: center;
+    text-align: center;
+    background-image: url('../Images/backgrounds/IP2.png');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.estadisticas h2{
+    padding: 0;
+    margin: 0;
+    max-width: 170px;
+}
+
+.atributos{
+    height: 30%;
+    width: 65%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.atributo{
+    width: 100%;
+    height: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    text-align: start;
+}
+
+.atributo h3{
+    width: 50px;
+}
+
+.atributo h3, p{
+    margin: 0;
+    padding: 0;
+}
+
+.atributo button{
+    height: 35px;
+    width: 35px;
+    padding: 0;
+    margin-right: 5px;
+}
+
+.nivel-exp{
+    width: 50%;
+}
+
+.nivel-exp div{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}

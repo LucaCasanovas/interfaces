@@ -1,0 +1,11 @@
+Nyx Cazador de Pesadillas
+
+Raza: Elfo Oscuro
+
+Clase: Asesino
+
+Habilidad Única: Sigilo Mortal
+El Asesino se oculta en las sombras y se vuelve invisible temporalmente para los enemigos, permitiéndole moverse sin ser detectado y realizar ataques sorpresa con daño crítico.
+
+Descripción:
+Este elfo oscuro es un maestro del sigilo y la letalidad, cuyos pasos son tan silenciosos como la noche misma. Criado en las sombras de los bosques prohibidos, el asesino elfo oscuro se mueve con gracia y sigilo, acechando a sus presas desde las sombras antes de lanzar ataques rápidos y mortales. Su destreza con la daga y su habilidad para desaparecer en la oscuridad lo convierten en un adversario temido por sus enemigos y una herramienta invaluable para sus aliados en la lucha contra el mal.

@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'Goudy Medieval';
+  src: url('./assets/PERRYGOT.TTF') format('truetype');
+}
+
+body {
+  font-family: 'Goudy Medieval', serif;
+}

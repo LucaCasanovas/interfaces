@@ -1,0 +1,11 @@
+Gunther Bastión de Piedra
+
+Raza: Enano
+
+Clase: Guardián
+
+Habilidad Única: Escudo de Piedra
+El Guardián invoca un escudo de piedra impenetrable que protege a todo el grupo de ataques entrantes durante un breve período de tiempo, reduciendo el daño recibido."
+
+Descripción:
+Este enano es conocido como el Guardián de las Montañas, un guerrero intrépido y leal cuya fuerza y resistencia son tan sólidas como las rocas de las montañas que llama hogar. Como miembro de una raza resistente y valiente, el Guardián ha jurado proteger a sus compañeros de equipo en la batalla, utilizando su resistencia y habilidades defensivas para mantenerlos a salvo de los peligros que acechan en las profundidades de las mazmorras.

@@ -1,0 +1,11 @@
+Bjorn Golpe Feroz
+
+Raza: Humano
+
+Clase: Guerrero
+
+Habilidad Única: Embate Furioso
+El Guerrero canaliza su ira y aumenta su fuerza temporalmente, infligiendo daño adicional en combate cuerpo a cuerpo durante un breve período de tiempo."
+
+Descripción:
+Bjorn Golpe Feroz es conocido por su feroz determinación y su capacidad para enfrentar cualquier desafío con valentía y vigor. Desde una edad temprana, se entrenó en las artes del combate cuerpo a cuerpo, perfeccionando sus habilidades con la espada y el escudo. Su determinación y su voluntad inquebrantable lo convierten en un adversario formidable en el campo de batalla, capaz de enfrentarse a los enemigos más poderosos con coraje y determinación.
